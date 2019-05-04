@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+.todo-list {
+  min-height: 150px;
+   padding:20px;
+}
+
+.box {
+  margin-top:50px;
+  margin-bottom:50px;
+}
